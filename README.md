@@ -19,10 +19,11 @@ Vacation map with hotels
 ### The direction
 - Get direction on the google map to connect chosen locations
 
-Travel map:
+  Travel map:
 ![Travel map](https://user-images.githubusercontent.com/64121596/143983759-3c585ed2-b42c-434a-9afc-01722791ace2.png)
 - Show their locations' weather on google map
-Travle map with markers
+
+  Travle map with markers
 ![](https://user-images.githubusercontent.com/64121596/143983739-9365da14-484d-4352-8edf-647680811243.png)
 
 ## Code files: 
